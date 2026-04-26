@@ -39,7 +39,6 @@ def get_db_connection():
         password="PK12345678",
         database="webgui"
     )
-
 # =========================
 # Animation Helper
 # =========================
