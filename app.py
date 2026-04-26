@@ -29,7 +29,6 @@ FONTS = {
     "button": ("Segoe UI", 10, "bold"),
     "small": ("Segoe UI", 9, "normal"),
 }
-
 # =========================
 # Database Connection
 # =========================
