@@ -216,7 +216,6 @@ def clear_form():
     e_fee.delete(0, tk.END)
     treeview.selection_remove(treeview.selection())
     update_button_states()
-
 def update_button_states():
     if 'btn_update' not in globals() or 'btn_delete' not in globals() or 'btn_view_details' not in globals():
         return
