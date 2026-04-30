@@ -20,7 +20,6 @@ COLORS = {
     "danger": "#E63946",
     "table_alt": "#E8F5F1",
 }
-
 FONTS = {
     "title": ("Segoe UI", 22, "bold"),
     "subtitle": ("Segoe UI", 12, "normal"),
